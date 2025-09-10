@@ -27,7 +27,7 @@ It uses Python (Jupyter Notebook) along with data visualization libraries to exp
 - Jupyter Notebook
 - Pandas(data manipulation)
 - NumPy(numerical analysis)
-- Matplotlib / Seaborn** (visualization)
+- Matplotlib / Seaborn (visualization)
 
 ---
 
